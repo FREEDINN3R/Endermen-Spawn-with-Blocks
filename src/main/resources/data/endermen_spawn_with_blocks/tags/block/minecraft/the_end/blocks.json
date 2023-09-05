@@ -1,0 +1,32 @@
+{
+  "values": [
+    "minecraft:coarse_dirt",
+    "minecraft:rooted_dirt",
+    "minecraft:dripstone_block",
+    "minecraft:sand",
+    "minecraft:red_sand",
+    "minecraft:gravel",
+    "minecraft:chiseled_stone_bricks",
+    "minecraft:chiseled_sandstone",
+    "minecraft:chiseled_red_sandstone",
+    "minecraft:chiseled_nether_bricks",
+    "minecraft:carved_pumpkin",
+    "minecraft:melon",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:tnt",
+    "minecraft:hay_block",
+    "minecraft:cake",
+    "minecraft:dried_kelp_block",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:damaged_anvil",
+    "minecraft:honeycomb_block",
+    "minecraft:bee_nest",
+    "minecraft:sponge",
+    "minecraft:diamond_block",
+    "minecraft:emerald_block",
+    "minecraft:enchanting_table",
+    "minecraft:jukebox",
+    "minecraft:note_block"
+  ]
+}
