@@ -21,7 +21,7 @@ public abstract class EntityTypeMixin<T extends Entity> {
 
             Block b = DynamicBlockProvider.getInstance().getBlock(world);
 
-            if (b == null) {
+            if (b == null || b.getRegistryEntry().isIn(ConfigTagsProvider.BLOCK_BLACKLIST)) {
                 return;
             }
 
