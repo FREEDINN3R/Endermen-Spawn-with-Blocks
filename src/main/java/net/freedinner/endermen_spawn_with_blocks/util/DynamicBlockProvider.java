@@ -17,7 +17,7 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.Random;
 
-public class DynamicBlockProvider {
+public final class DynamicBlockProvider {
     private final Map<Identifier, TagKey<Block>> tagMap = new LinkedHashMap<>();
     private final Random random = new Random();
 
