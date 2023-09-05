@@ -23,6 +23,9 @@
     "minecraft:prismarine_bricks",
     "minecraft:dark_prismarine",
     "minecraft:sea_lantern",
-    "minecraft:nether_wart"
+    "minecraft:nether_wart",
+    "minecraft:ochre_froglight",
+    "minecraft:pearlescent_froglight",
+    "minecraft:verdant_froglight"
   ]
 }
