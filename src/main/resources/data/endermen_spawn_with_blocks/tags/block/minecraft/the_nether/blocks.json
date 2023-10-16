@@ -1,0 +1,31 @@
+{
+  "values": [
+    "minecraft:end_stone",
+    "minecraft:end_stone_bricks",
+    "minecraft:end_stone_brick_stairs",
+    "minecraft:purple_wool",
+    "minecraft:white_wool",
+    "minecraft:magenta_wool",
+    "minecraft:purpur_block",
+    "minecraft:purpur_pillar",
+    "minecraft:purpur_stairs",
+    "minecraft:magenta_stained_glass",
+    "minecraft:cyan_concrete_powder",
+    "minecraft:purple_concrete_powder",
+    "minecraft:magenta_concrete_powder",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:chorus_plant",
+    "minecraft:chorus_flower",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    "minecraft:prismarine",
+    "minecraft:prismarine_bricks",
+    "minecraft:dark_prismarine",
+    "minecraft:sea_lantern",
+    "minecraft:nether_wart",
+    "minecraft:ochre_froglight",
+    "minecraft:pearlescent_froglight",
+    "minecraft:verdant_froglight"
+  ]
+}
